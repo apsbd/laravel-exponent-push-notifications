@@ -4,10 +4,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/apsbd/laravel-exponent-push-notifications.svg?branch=master)](https://travis-ci.org/apsbd/laravel-exponent-push-notifications)
 [![StyleCI](https://styleci.io/repos/96645200/shield?branch=master)](https://styleci.io/repos/96645200)
-[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/afe0ba9a-e35c-4759-a06f-14a081cf452c.svg?style=flat-square)](https://insight.sensiolabs.com/projects/afe0ba9a-e35c-4759-a06f-14a081cf452c)
-[![Quality Score](https://img.shields.io/scrutinizer/g/apsbd/laravel-exponent-push-notifications.svg?style=flat-square)](https://scrutinizer-ci.com/g/apsbd/laravel-exponent-push-notifications)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/apsbd/laravel-exponent-push-notifications/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/apsbd/laravel-exponent-push-notifications/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/apsbd/laravel-exponent-push-notifications.svg?style=flat-square)](https://packagist.org/packages/apsbd/laravel-exponent-push-notifications)
 
 ## Contents
 
