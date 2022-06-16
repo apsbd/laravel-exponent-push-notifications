@@ -1,13 +1,13 @@
 # Exponent push notifications channel for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/alymosul/laravel-exponent-push-notifications.svg?style=flat-square)](https://packagist.org/packages/alymosul/laravel-exponent-push-notifications)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/apsbd/laravel-exponent-push-notifications.svg?style=flat-square)](https://packagist.org/packages/apsbd/laravel-exponent-push-notifications)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://travis-ci.org/Alymosul/laravel-exponent-push-notifications.svg?branch=master)](https://travis-ci.org/Alymosul/laravel-exponent-push-notifications)
+[![Build Status](https://travis-ci.org/apsbd/laravel-exponent-push-notifications.svg?branch=master)](https://travis-ci.org/apsbd/laravel-exponent-push-notifications)
 [![StyleCI](https://styleci.io/repos/96645200/shield?branch=master)](https://styleci.io/repos/96645200)
 [![SensioLabsInsight](https://img.shields.io/sensiolabs/i/afe0ba9a-e35c-4759-a06f-14a081cf452c.svg?style=flat-square)](https://insight.sensiolabs.com/projects/afe0ba9a-e35c-4759-a06f-14a081cf452c)
-[![Quality Score](https://img.shields.io/scrutinizer/g/alymosul/laravel-exponent-push-notifications.svg?style=flat-square)](https://scrutinizer-ci.com/g/alymosul/laravel-exponent-push-notifications)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/alymosul/laravel-exponent-push-notifications/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/alymosul/laravel-exponent-push-notifications/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/alymosul/laravel-exponent-push-notifications.svg?style=flat-square)](https://packagist.org/packages/alymosul/laravel-exponent-push-notifications)
+[![Quality Score](https://img.shields.io/scrutinizer/g/apsbd/laravel-exponent-push-notifications.svg?style=flat-square)](https://scrutinizer-ci.com/g/apsbd/laravel-exponent-push-notifications)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/apsbd/laravel-exponent-push-notifications/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/apsbd/laravel-exponent-push-notifications/?branch=master)
+[![Total Downloads](https://img.shields.io/packagist/dt/apsbd/laravel-exponent-push-notifications.svg?style=flat-square)](https://packagist.org/packages/apsbd/laravel-exponent-push-notifications)
 
 ## Contents
 
@@ -25,7 +25,7 @@
 You can install the package via composer:
 
 ```bash
-composer require alymosul/laravel-exponent-push-notifications
+composer require apsbd/laravel-exponent-push-notifications
 ```
 
 If you are using Laravel 5.5 or higher this package will automatically register itself using [Package Discovery](https://laravel.com/docs/5.5/packages#package-discovery). For older versions of Laravel you must install the service provider manually:
@@ -141,7 +141,7 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please email alymosul@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email mohiuddin.007@gmail.com instead of using the issue tracker.
 
 ## Contributing
 
@@ -149,7 +149,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
--   [Aly Suleiman](https://github.com/Alymosul)
+-   [Mohiuddin Ahmed](https://github.com/apsbd)
 -   [All Contributors](../../contributors)
 
 ## License
